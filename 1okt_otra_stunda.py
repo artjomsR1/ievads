@@ -5,6 +5,7 @@ sask=sk1+sk2#saskaitam rez=16
 print(sask)
 print(sk1,"+",sk2,"=",sask)
 
+
 at=sk1-sk2#atnemsana rez=10
 print(at)
 
